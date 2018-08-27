@@ -29,7 +29,7 @@ The compiler to writing python code is not specified, you can choose it by yours
 奇数: 1, 3, 5, ... , 49
 偶数: 2, 4, 6, ... , 50
 ```
-2. Please use python to write a program that implements a 21 x 21 multiplication table, The effect is as follow:
+2. - [ ] Please use python to write a program that implements a 21 x 21 multiplication table, The effect is as follow:
 ```
 1: 1 x 1 = 1
 2: 1 x 2 = 2, 2 x 2 = 4
@@ -39,8 +39,8 @@ The compiler to writing python code is not specified, you can choose it by yours
         ...
 21: 1 x 21 = 21, 2 x 21 = 42, 3 x 21 = 63, 4 x 21 = 84, ... , 21 x 21 = 441 
 ```
-3. Please use python to write a program to print the content of the `print_file.txt` file in this project.
-4. Please use python to write a program to copy the `print_file.txt` to a new file named `print_file_copy.txt`
+3. - [ ] Please use python to write a program to print the content of the `print_file.txt` file in this project.
+4. - [ ] Please use python to write a program to copy the `print_file.txt` to a new file named `print_file_copy.txt`
 ## some attentions
 * When writing a program, the name of project、variable in the program, etc. should be as good as possible. Do not take some names such as `abc`, `a`, `123`.
 * Beginner period of programming, write more annotated
