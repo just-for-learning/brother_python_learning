@@ -1,5 +1,7 @@
 # brother_python_learning
 [中文版](README_CN.md) | [English](README.md)
+
+The purpose of writing two versions is to explain to you that the English foundation is also important in programming learning. You should be accustomed to using English to read and write documents.
 ## overview
 Some tasks will be posted from time to time, please note the update. Or if you have any gains and accumulations, you can update this project. I will check them regularly. The learning of programming focuses on turning theory into code, hopes to persist.
 ## about git
@@ -39,3 +41,7 @@ The compiler to writing python code is not specified, you can choose it by yours
 ```
 3. Please use python to write a program to print the content of the `print_file.txt` file in this project.
 4. Please use python to write a program to copy the `print_file.txt` to a new file named `print_file_copy.txt`
+## some attentions
+* When writing a program, the name of project、variable in the program, etc. should be as good as possible. Do not take some names such as `abc`, `a`, `123`.
+* Beginner period of programming, write more annotated
+* If you don't understand, check the information with internet or ask for me, especially you should be good at consulting the official documents.
