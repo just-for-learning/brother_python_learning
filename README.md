@@ -40,8 +40,8 @@ The compiler to writing python code is not specified, you can choose it by yours
 21: 1 x 21 = 21, 2 x 21 = 42, 3 x 21 = 63, 4 x 21 = 84, ... , 21 x 21 = 441 
 ```
 3. - [ ] Please use python to write a program to print the content of the `print_file.txt` file in this project.
-4. - [ ] Please use python to write a program to copy the `print_file.txt` to a new file named `print_file_copy.txt`
+4. - [ ] Please use python to write a program to copy the `print_file.txt` to a new file named `print_file_copy.txt`.
 ## some attentions
 * When writing a program, the name of project、variable in the program, etc. should be as good as possible. Do not take some names such as `abc`, `a`, `123`.
-* Beginner period of programming, write more annotated
+* Beginner period of programming, write more annotated.
 * If you don't understand, check the information with internet or ask for me, especially you should be good at consulting the official documents.
