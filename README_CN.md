@@ -7,15 +7,15 @@
 
 ## git相关
 在进行项目之前，你需要对版本控制工具git有一些基本的了解，下面我列举了一些参考资料
-1. git的基本用法
 
-    可参考
+1. git的基本用法
+可参考
     [git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html),
     [图解git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html?no-svg#conventions),
     [git Book](https://git-scm.com/book/zh/v2),
     [git 详细操作指南](https://juejin.im/post/58c7a4cf61ff4b005da83c42)
 
-2. 怎么在github向别人的项目提交代码，也是本项目中你提交代码的方式
+2. **怎么在github向别人的项目提交代码，也是本项目中你提交代码的方式**
 
     可参考
     [知乎: 如何开始在Github上参与开源项目贡献代码?](https://www.zhihu.com/question/39721968)

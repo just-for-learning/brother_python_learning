@@ -7,8 +7,7 @@ Some tasks will be posted from time to time, please note the update. Or if you h
 ## about git
 Before you go to the project, you need to have some basic understanding of the version control tool specific git. So I have listed some references below.
 1. basic using of git
-
-    to reference: 
+to reference: 
     [git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html),
     [图解git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html?no-svg#conventions),
     [git Book](https://git-scm.com/book/zh/v2),
