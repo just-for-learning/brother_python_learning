@@ -21,7 +21,7 @@ to reference:
 ## about IDE
 The compiler to writing python code is not specified, you can choose it by yourself, you only need to upload your `'.py'` file to the project.
 ## tasks
-1. - [ ] Please use python to write a program that print out odd and even numbers which in all natural numbers no larger than 50. The effect is as follow:
+1. - [x] Please use python to write a program that print out odd and even numbers which in all natural numbers no larger than 50. The effect is as follow:
     ```
     50以内的奇数和偶数如下：
     0 既不是奇数也不是偶数
