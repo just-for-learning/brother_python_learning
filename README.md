@@ -1,4 +1,4 @@
-# brother_python_learning
+# brother_python_learning (date: 2018-8-27 11:00)
 [中文版](README_CN.md) | [English](README.md)
 
 The purpose of writing two versions is to explain to you that the English foundation is also important in programming learning. You should be accustomed to using English to read and write documents.
