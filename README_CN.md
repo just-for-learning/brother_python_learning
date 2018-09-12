@@ -47,7 +47,7 @@
         ```
         结果：没有输出环节，请修改
         ```
-        * python for jupyter (朱广斌)
+        * python for jupyter
         ```python
         odd_numbers=[]
         oushu=[]

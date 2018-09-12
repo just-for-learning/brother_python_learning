@@ -28,7 +28,7 @@ The compiler to writing python code is not specified, you can choose it by yours
     奇数: 1, 3, 5, ... , 49
     偶数: 2, 4, 6, ... , 50
     ```
-    * Results -- Guangbin Zhu
+    * Results  -- Guangbin Zhu
         * C 
         ```C
         #include<stuio>
@@ -45,7 +45,7 @@ The compiler to writing python code is not specified, you can choose it by yours
         ```
         estimate：lack of output process, please modify the code.
         ```
-        * python for jupyter (朱广斌)
+        * python for jupyter
         ```python
         odd_numbers=[]
         oushu=[]
