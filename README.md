@@ -28,6 +28,43 @@ The compiler to writing python code is not specified, you can choose it by yours
     奇数: 1, 3, 5, ... , 49
     偶数: 2, 4, 6, ... , 50
     ```
+    * Results -- Guangbin Zhu
+        * C 
+        ```C
+        #include<stuio>
+        void main(){
+            int odd_number[30],oushu[30],i,j,k;
+            for(i=0,j=0,k=0;i<=50;i++){
+                if(i%2==0)
+                    oushu[k++]=i;
+                else
+                    odd_number[j++]=i;
+            }
+        }
+        ```
+        ```
+        estimate：lack of output process, please modify the code.
+        ```
+        * python for jupyter (朱广斌)
+        ```python
+        odd_numbers=[]
+        oushu=[]
+        for i in range(51):
+            if (i % 2 == 0):
+                oushu.append(i)
+            else:
+                odd_numbers.append(i)    
+        odd_numbers
+        oushu
+        ```
+        ```
+        代码输出结果如下：
+        [1,3,5,7, 9,11,13,15,17,19,21,23,25,27,29,31,33,37,39,41,43,45,47,49]
+        [0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50]
+        ```
+        ```
+        estimate: wrong answer, because 0 is not a odd number,nor a even number.
+        ```
 2. - [ ] Please use python to write a program that implements a 21 x 21 multiplication table, The effect is as follow:
     ```
     1: 1 x 1 = 1
