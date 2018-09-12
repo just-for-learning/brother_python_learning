@@ -28,7 +28,7 @@ The compiler to writing python code is not specified, you can choose it by yours
     奇数: 1, 3, 5, ... , 49
     偶数: 2, 4, 6, ... , 50
     ```
-    * Results  -- Guangbin Zhu
+    * Results (date: 2018-9-4 23:00)  -- Guangbin Zhu
         * C 
         ```C
         #include<stuio>

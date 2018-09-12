@@ -1,4 +1,4 @@
-# brother_python_learning(项目名称)
+# brother_python_learning(项目名称) (日期: 2018-8-27 11:00)
 [中文版](README_CN.md) | [English](README.md)
 
 写两个版本的目的是为了向你说明英文基础在编程的学习中也是很重要的，要习惯于使用英文读写文献。
@@ -30,7 +30,7 @@
     奇数: 1, 3, 5, ... , 49
     偶数: 2, 4, 6, ... , 50
     ```
-    * Results -- Guangbin Zhu
+    ### 结果代码 (日期: 2018-9-4 23:00)  -- 朱广斌
         * C 
         ```C
         #include<stuio>
