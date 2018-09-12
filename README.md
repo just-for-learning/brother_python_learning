@@ -43,7 +43,7 @@ The compiler to writing python code is not specified, you can choose it by yours
         }
         ```
         ```
-        estimate：lack of output process, please modify the code.
+        estimate：wrong answer, lack of output process, please modify the code.
         ```
         * python for jupyter
         ```python
