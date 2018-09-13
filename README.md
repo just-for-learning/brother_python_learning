@@ -21,7 +21,7 @@ to reference:
 ## about IDE
 The compiler to writing python code is not specified, you can choose it by yourself, you only need to upload your `'.py'` file to the project.
 ## tasks
-1. - [x] Please use python to write a program that print out odd and even numbers which in all natural numbers no larger than 50. The effect is as follow:
+1. - [x] Please use python to write a program that print out odd and even numbers which in all natural numbers no larger than 50. The effect is as below:
     ```
     50以内的奇数和偶数如下：
     0 既不是奇数也不是偶数
@@ -65,7 +65,7 @@ The compiler to writing python code is not specified, you can choose it by yours
         ```
         estimate: wrong answer, because 0 is not a odd number,nor a even number.
         ```
-2. - [ ] Please use python to write a program that implements a 21 x 21 multiplication table, The effect is as follow:
+2. - [ ] Please use python to write a program that implements a 21 x 21 multiplication table, The effect is as below:
     ```
     1: 1 x 1 = 1
     2: 1 x 2 = 2, 2 x 2 = 4
@@ -75,8 +75,17 @@ The compiler to writing python code is not specified, you can choose it by yours
             ...
     21: 1 x 21 = 21, 2 x 21 = 42, 3 x 21 = 63, 4 x 21 = 84, ... , 21 x 21 = 441 
     ```
-3. - [ ] Please use python to write a program to print the content of the `print_file.txt` file in this project.
-4. - [ ] Please use python to write a program to copy the `print_file.txt` to a new file named `print_file_copy.txt`.
+3. - [ ] Please use python to write a program to print the content of the `print_file.txt` file in this project, The effect is as below:
+    ```
+    python 学习之路
+    1. 勤练习
+    2. 多动脑
+    3. 身体好
+    ```
+4. - [ ] Please use python to write a program to copy the `print_file.txt` to a new file named `print_file_copy.txt`, the output of console as below:
+    ```
+    copy has be done.
+    ```
 ## some attentions
 * When writing a program, the name of project、variable in the program, etc. should be as good as possible. Do not take some names such as `abc`, `a`, `123`.
 * Beginner period of programming, write more annotated.
