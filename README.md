@@ -4,6 +4,9 @@
 The purpose of writing two versions is to explain to you that the English foundation is also important in programming learning. You should be accustomed to using English to read and write documents.
 ## overview
 Some tasks will be posted from time to time, please note the update. Or if you have any gains and accumulations, you can update this project. I will check them regularly. The learning of programming focuses on turning theory into code, hopes to persist.
+## gains
+Please summarize you accumulations as below
+* [gain1](总结1) (match a file in the project)
 ## about git
 Before you go to the project, you need to have some basic understanding of the version control tool specific git. So I have listed some references below.
 1. basic using of git
