@@ -7,6 +7,7 @@ Some tasks will be posted from time to time, please note the update. Or if you h
 ## gains
 Please summarize you accumulations as below
 * [gain1](总结1) (match a file in the project)
+* [gain2](总结1) (match a file in the project)
 ## about git
 Before you go to the project, you need to have some basic understanding of the version control tool specific git. So I have listed some references below.
 1. basic using of git
