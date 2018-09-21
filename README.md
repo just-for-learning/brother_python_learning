@@ -94,3 +94,5 @@ The compiler to writing python code is not specified, you can choose it by yours
 * When writing a program, the name of project、variable in the program, etc. should be as good as possible. Do not take some names such as `abc`, `a`, `123`.
 * Beginner period of programming, write more annotated.
 * If you don't understand, check the information with internet or ask for me, especially you should be good at consulting the official documents.
+
+## [Reference Answer](reference_answer.py)

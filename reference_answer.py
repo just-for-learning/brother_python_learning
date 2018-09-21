@@ -54,7 +54,7 @@ def copy_file():
 
 if __name__ == '__main__':
     """
-    there are 4 function as below, you can excite it by uncomment the line.
+    there are 4 function as below, you can execute it by uncomment the line.
     """
     # print_odd_even()
     # print_multi_table()
