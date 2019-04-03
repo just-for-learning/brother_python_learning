@@ -1,75 +1,39 @@
-# brother_python_learning (date: 2018-8-27 11:00)
+# brother_python_learning(项目名称) (日期: 2018-8-27 11:00)
 [中文版](README_CN.md) | [English](README.md)
 
-The purpose of writing two versions is to explain to you that the English foundation is also important in programming learning. You should be accustomed to using English to read and write documents.
-## overview
-Some tasks will be posted from time to time, please note the update. Or if you have any gains and accumulations, you can update this project. I will check them regularly. The learning of programming focuses on turning theory into code, hopes to persist.
-## gains
-Please summarize you accumulations as below
-* [gain1](总结1) (match a file in the project)
-* [gain2](总结1) (match a file in the project)
-## about git
-Before you go to the project, you need to have some basic understanding of the version control tool specific git. So I have listed some references below.
-1. basic using of git
-to reference: 
+写两个版本的目的是为了向你说明英文基础在编程的学习中也是很重要的，要习惯于使用英文读写文献。
+## 概述
+我会时不时发布一些作业在上面，请注意更新。或者你平时有什么收获积累也可更新上来，我会定时查看的。编程的学习重在将理论转化成代码，望坚持。
+## 收获总结
+请采用以下的方式总结你的成果
+* [总结1](总结1) (对应项目中的一个总结文件)
+* [总结2](总结1) (对应项目中的一个总结文件)
+## git相关
+在进行项目之前，你需要对版本控制工具git有一些基本的了解，下面我列举了一些参考资料
+
+1. git的基本用法
+可参考
     [git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html),
     [图解git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html?no-svg#conventions),
     [git Book](https://git-scm.com/book/zh/v2),
     [git 详细操作指南](https://juejin.im/post/58c7a4cf61ff4b005da83c42)
 
-2. How to submit code to other‘s project on github, which is also the way you submit code in this project.
+2. **怎么在github向别人的项目提交代码，也是本项目中你提交代码的方式**
 
-    to reference: 
+    可参考
     [知乎: 如何开始在Github上参与开源项目贡献代码?](https://www.zhihu.com/question/39721968)
 
-## about IDE
-The compiler to writing python code is not specified, you can choose it by yourself, you only need to upload your `'.py'` file to the project.
-## tasks
-1. - [x] Please use python to write a program that print out odd and even numbers which in all natural numbers no larger than 50. The effect is as below:
+## 编译器相关
+写python代码的编译器不指定，你可自行选择，最终只需要将你的`.py`文件上传到项目即可。
+## 任务内容
+1. - [x] 请使用python编写程序, 打印出所有不大于50的自然数中的奇数和偶数, 效果如下：
     ```
     50以内的奇数和偶数如下：
     0 既不是奇数也不是偶数
     奇数: 1, 3, 5, ... , 49
     偶数: 2, 4, 6, ... , 50
     ```
-    * Results (date: 2018-9-4 23:00)  -- Guangbin Zhu
-        * C 
-        ```C
-        #include<stuio>
-        void main(){
-            int odd_number[30],oushu[30],i,j,k;
-            for(i=0,j=0,k=0;i<=50;i++){
-                if(i%2==0)
-                    oushu[k++]=i;
-                else
-                    odd_number[j++]=i;
-            }
-        }
-        ```
-        ```
-        estimate：wrong answer, lack of output process, please modify the code.
-        ```
-        * python for jupyter
-        ```python
-        odd_numbers=[]
-        oushu=[]
-        for i in range(51):
-            if (i % 2 == 0):
-                oushu.append(i)
-            else:
-                odd_numbers.append(i)    
-        odd_numbers
-        oushu
-        ```
-        ```
-        代码输出结果如下：
-        [1,3,5,7, 9,11,13,15,17,19,21,23,25,27,29,31,33,37,39,41,43,45,47,49]
-        [0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50]
-        ```
-        ```
-        estimate: wrong answer, because 0 is not a odd number,nor a even number.
-        ```
-2. - [ ] Please use python to write a program that implements a 21 x 21 multiplication table, The effect is as below:
+2. - [ ] 请使用python编写程序, 实现 21 x 21 的乘法表, 效果如下：
     ```
     1: 1 x 1 = 1
     2: 1 x 2 = 2, 2 x 2 = 4
@@ -79,20 +43,22 @@ The compiler to writing python code is not specified, you can choose it by yours
             ...
     21: 1 x 21 = 21, 2 x 21 = 42, 3 x 21 = 63, 4 x 21 = 84, ... , 21 x 21 = 441 
     ```
-3. - [ ] Please use python to write a program to print the content of the `print_file.txt` file in this project, The effect is as below:
+3. - [ ] 请使用python编写程序, 打印出项目中`print_file.txt`文件中的内容, 效果如下：
     ```
     python 学习之路
     1. 勤练习
     2. 多动脑
     3. 身体好
     ```
-4. - [ ] Please use python to write a program to copy the `print_file.txt` to a new file named `print_file_copy.txt`, the output of console as below:
+4. - [ ] 请使用python编写程序, 讲`print_file.txt`文件中的内容复制到另一个文件中，文件名为`print_file_copy.txt`, 控制台输出如下:
     ```
-    copy has be done.
+    文件复制已完成
     ```
-## some attentions
-* When writing a program, the name of project、variable in the program, etc. should be as good as possible. Do not take some names such as `abc`, `a`, `123`.
-* Beginner period of programming, write more annotated.
-* If you don't understand, check the information with internet or ask for me, especially you should be good at consulting the official documents.
+## 几点注意
+* 编写程序时,项目名称、程序中的变量名要尽量做到**见名知意**，不要取一些`abc`,`a`,`123`之类的名称。
+* 初学编程时，要多加注释。
+* 有不懂的要多查资料，特别是要善于查阅官方文档。
 
-## [Reference Answer](reference_answer.py)
+## [广斌提交的答案](Guangbing's_answer.md)
+## [参考答案](reference_answer.py)
+
