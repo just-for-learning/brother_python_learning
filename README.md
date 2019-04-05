@@ -22,12 +22,14 @@
     [图解git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html?no-svg#conventions),
     [git Book](https://git-scm.com/book/zh/v2),
     [git 详细操作指南](https://juejin.im/post/58c7a4cf61ff4b005da83c42)
+2. 怎么更新github上的项目代码
 
-2. **怎么在github向别人的项目提交代码，也是本项目中你提交代码的方式**
+    可参考：[简书: 更新github上的项目代码](https://www.jianshu.com/p/5c5dffaa5090)
+3. 怎么在github上向别人的项目提交代码，也是本项目中你提交代码的方式
 
     可参考: [知乎: 如何开始在Github上参与开源项目贡献代码?](https://www.zhihu.com/question/39721968)
 
-3. Markdown 基本语法
+## Markdown 基本语法
 
     可参考: [Markdown语法总结](https://www.jianshu.com/p/ccfd81fe77d2)
 
