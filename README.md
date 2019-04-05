@@ -1,5 +1,5 @@
 # brother_learning(项目名称) 
-[中文版](README_CN.md) | [English](README.md)
+[中文版](README.md) | [English](README_EN.md)
 
 1st: 2018-8-27 11:00
 
